@@ -11,5 +11,6 @@
 def mul(a,b) :\
  \
 result1 =a*b\
+
 \
 return c }
