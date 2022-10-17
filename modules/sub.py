@@ -10,6 +10,6 @@
 \
 def mul(a,b) :\
  \
-c=a*b\
+result=a*b\
 \
 return c }
